@@ -1,0 +1,17 @@
+.navButton{
+    background-color:#403F2B ;
+    width: 110px;
+    padding: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color:white;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.navButton:hover{
+    background-color: #C4C197; 
+    color: #4B4A33;
+    box-shadow: inset 0 0 7px 5px #29281b;
+}
