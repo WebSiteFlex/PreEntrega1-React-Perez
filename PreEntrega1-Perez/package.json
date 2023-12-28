@@ -1,12 +1,12 @@
 {
   "name": "preentrega1-perez",
   "version": "1.0.0",
-  "description": "",
+  "description": "first-delivery react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Julian Perez",
+  "author": "Julian",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0"
